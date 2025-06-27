@@ -9,9 +9,10 @@ class ImageReader {
 private:
   std::vector<unsigned char> image;
   int width, heights, channels;
+  Image readFileToMemory(const std::string& path);
 
 public:
-  Image read(std::string path);
+  Image read(const std::string& path);
   info();
 };
 
