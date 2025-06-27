@@ -1,5 +1,5 @@
-#ifndef IMAGE_READER_H
-#define IMAGE_READER_H
+#ifndef LIB_IMAGE_READER_FACTORIES_H_
+#define LIB_IMAGE_READER_FACTORIES_H_
 
 #include <vector>
 #include <string>

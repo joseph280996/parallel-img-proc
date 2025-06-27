@@ -1,6 +1,6 @@
-#include "reader.h"
-#include "image.h"
-#include <turbojpeg.h>
+#include "factories/reader.h"
+#include "models/image.h"
+#include "turbojpeg.h"
 #include <chrono>
 #include <string>
 
