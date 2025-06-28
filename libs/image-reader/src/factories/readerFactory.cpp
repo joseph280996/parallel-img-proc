@@ -1,4 +1,4 @@
-#include "factoriesareader.h"
+#include "factories/reader.h"
 #include "models/image.h"
 #include "turbojpeg.h"
 #include <fstream>
