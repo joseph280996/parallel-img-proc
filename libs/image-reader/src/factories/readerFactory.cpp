@@ -23,5 +23,8 @@ std::vector<unsigned char> ImageReader::readFileToMemory(const std::string& path
 }
 //endregion
 //region Public Methods
+Image ImageReader::read(const std::string& path) {
+
+}
 //endregion
 
